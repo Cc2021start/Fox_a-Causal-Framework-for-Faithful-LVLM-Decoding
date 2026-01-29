@@ -1,0 +1,4 @@
+{"question_id": 2, "image": "COCO_val2014_000000310196.jpg", "text": "Is there a dining table in the image?", "label": "no"}
+{"question_id": 3, "image": "COCO_val2014_000000310196.jpg", "text": "Is there a person in the image?", "label": "yes"}
+{"question_id": 21, "image": "COCO_val2014_000000211674.jpg", "text": "Is there a potted plant in the image?", "label": "yes"}
+{"question_id": 128, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a scissors in the image?", "label": "no"}

@@ -1,0 +1,25 @@
+
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+*.log
+outputs/
+results/
+runs/
+
+# Checkpoints / weights (do not upload for anonymous review)
+*.pt
+*.pth
+*.ckpt
+*.bin
